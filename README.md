@@ -2,7 +2,9 @@
 
 ## Data
 
-The `data` directory contains a fragment of the Canadian Hansards,
+Clone [the data repo](https://github.com/2020-Fall-UIUC-LING506/data) and ensure it is within this directory.
+
+The cloned `data` directory contains a fragment of the Canadian Hansards,
 aligned by Ulrich Germann:
 
 -`hansards.e` is the English side.
